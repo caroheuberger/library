@@ -18,5 +18,15 @@
         },
         "language": "de",
         "year": 2023
+    },
+    {
+        "title": "Ein Feuer im Garten",
+        "author": {
+            "firstName": "Franz",
+            "lastName": "Hohler",
+            "alive": true
+        },
+        "language": "de",
+        "year": 2015
     }
 ]
